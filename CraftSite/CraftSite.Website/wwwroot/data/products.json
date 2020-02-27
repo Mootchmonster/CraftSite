@@ -1,18 +1,18 @@
 [
   {
-    "id": "item-one",
+    "id": "black_cat",
     "maker": "mootchmonster",
-    "img": "",
-    "url": "",
-    "title": "Item One Title",
+    "img": "https://user-images.githubusercontent.com/37186666/75477887-32a7ae00-595a-11ea-9d78-58c947fa23b3.jpg",
+    "url": "https://user-images.githubusercontent.com/37186666/75477887-32a7ae00-595a-11ea-9d78-58c947fa23b3.jpg",
+    "title": "Black Cat",
     "description": "Art of Item One"
   },
   {
-    "id": "item-two",
+    "id": "frog_traveler",
     "maker": "mootchmonster",
-    "img": "",
-    "url": "",
-    "title": "Item Two Title",
+    "img": "https://user-images.githubusercontent.com/37186666/75477640-de9cc980-5959-11ea-8bc3-95db125d243c.jpg",
+    "url": "https://user-images.githubusercontent.com/37186666/75477640-de9cc980-5959-11ea-8bc3-95db125d243c.jpg",
+    "title": "Frog Traveler",
     "description": "Art of Item Two"
   }
 ]
